@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/Adrian994/a16727c3-21aa-4c0b-a2ea-a8db1182a21c/f751d5b3-f5c2-4441-8d61-f5aaeb72aec2/_apis/work/boardbadge/35809e9f-7ca3-4739-80dd-fbbe9cdb705d)](https://dev.azure.com/Adrian994/a16727c3-21aa-4c0b-a2ea-a8db1182a21c/_boards/board/t/f751d5b3-f5c2-4441-8d61-f5aaeb72aec2/Microsoft.RequirementCategory)
 # Script
 
 [![Build Status](http://img.shields.io/travis/rgbkrk/atom-script.svg?style=flat)](https://travis-ci.org/rgbkrk/atom-script)
